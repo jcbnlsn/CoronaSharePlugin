@@ -1,5 +1,5 @@
 # CoronaSharePlugin
-Native iOS Corona Enterprise plugin for UIActivity popup sharing options with image ( MMS, Airdrop, Air print, Facebook, Twitter etc.) + Instagram sharing as a custom activity.
+Native iOS Corona Enterprise plugin for UIActivity popup sharing options with text, image and url ( MMS, Airdrop, Air print, Facebook, Twitter etc.) + Instagram sharing as a custom activity.
 
 This plugin was influenced by Cory Alders project here:
 https://github.com/coryalder/DMActivityInstagram
