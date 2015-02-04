@@ -23,11 +23,11 @@ end)
 -- Share it
 local function buttonHandler()
 	share.popUp {
-        imageName="photo.png", -- must filename of png in system.DocumentsDirectory
-        message="Check out my #moustache",
-        url="http://moustache.net",
-        origin = { x=384, y=140 } --  If iPad: the point the share popup emerges from.
-    }
+        	imageName="photo.png", -- name of png in system.DocumentsDirectory
+		message="Check out my #moustache",
+        	url="http://moustache.net",
+        	origin = { x=384, y=140 } --  If iPad: the point the share popup emerges from.
+    	}
 end
 
 -- Share button
